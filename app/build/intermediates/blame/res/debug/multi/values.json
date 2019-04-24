@@ -1,0 +1,319 @@
+[
+    {
+        "outputFile": "D:\\Seafile\\Seafile\\Meine Bibliothek\\Lehre\\SS17\\Android\\Update\\Alt\\07_Eieruhr\\06 Eieruhr Loesung\\06_Eieruhr_Loesung\\EggTimer_Loesung\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 19,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "D:\\Seafile\\Seafile\\Meine Bibliothek\\Lehre\\SS17\\Android\\Update\\Alt\\07_Eieruhr\\06 Eieruhr Loesung\\06_Eieruhr_Loesung\\EggTimer_Loesung\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 673,
+                        "endLine": 24,
+                        "endColumn": 19,
+                        "endOffset": 781
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 168,
+                    "endLine": 10,
+                    "endColumn": 19,
+                    "endOffset": 303
+                },
+                "from": {
+                    "file": "D:\\Seafile\\Seafile\\Meine Bibliothek\\Lehre\\SS17\\Android\\Update\\Alt\\07_Eieruhr\\06 Eieruhr Loesung\\06_Eieruhr_Loesung\\EggTimer_Loesung\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 532,
+                        "endLine": 19,
+                        "endColumn": 19,
+                        "endOffset": 667
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 308,
+                    "endColumn": 57,
+                    "endOffset": 361
+                },
+                "from": {
+                    "file": "D:\\Seafile\\Seafile\\Meine Bibliothek\\Lehre\\SS17\\Android\\Update\\Alt\\07_Eieruhr\\06 Eieruhr Loesung\\06_Eieruhr_Loesung\\EggTimer_Loesung\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 3,
+                        "startOffset": 90,
+                        "endColumn": 56,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 366,
+                    "endColumn": 55,
+                    "endOffset": 417
+                },
+                "from": {
+                    "file": "D:\\Seafile\\Seafile\\Meine Bibliothek\\Lehre\\SS17\\Android\\Update\\Alt\\07_Eieruhr\\06 Eieruhr Loesung\\06_Eieruhr_Loesung\\EggTimer_Loesung\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 3,
+                        "startOffset": 148,
+                        "endColumn": 54,
+                        "endOffset": 199
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 422,
+                    "endColumn": 52,
+                    "endOffset": 470
+                },
+                "from": {
+                    "file": "D:\\Seafile\\Seafile\\Meine Bibliothek\\Lehre\\SS17\\Android\\Update\\Alt\\07_Eieruhr\\06 Eieruhr Loesung\\06_Eieruhr_Loesung\\EggTimer_Loesung\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 52,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 475,
+                    "endColumn": 45,
+                    "endOffset": 516
+                },
+                "from": {
+                    "file": "D:\\Seafile\\Seafile\\Meine Bibliothek\\Lehre\\SS17\\Android\\Update\\Alt\\07_Eieruhr\\06 Eieruhr Loesung\\06_Eieruhr_Loesung\\EggTimer_Loesung\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 45,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 521,
+                    "endColumn": 39,
+                    "endOffset": 556
+                },
+                "from": {
+                    "file": "D:\\Seafile\\Seafile\\Meine Bibliothek\\Lehre\\SS17\\Android\\Update\\Alt\\07_Eieruhr\\06 Eieruhr Loesung\\06_Eieruhr_Loesung\\EggTimer_Loesung\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 491,
+                        "endColumn": 39,
+                        "endOffset": 526
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 561,
+                    "endColumn": 59,
+                    "endOffset": 616
+                },
+                "from": {
+                    "file": "D:\\Seafile\\Seafile\\Meine Bibliothek\\Lehre\\SS17\\Android\\Update\\Alt\\07_Eieruhr\\06 Eieruhr Loesung\\06_Eieruhr_Loesung\\EggTimer_Loesung\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 369,
+                        "endColumn": 59,
+                        "endOffset": 424
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 621,
+                    "endColumn": 45,
+                    "endOffset": 662
+                },
+                "from": {
+                    "file": "D:\\Seafile\\Seafile\\Meine Bibliothek\\Lehre\\SS17\\Android\\Update\\Alt\\07_Eieruhr\\06 Eieruhr Loesung\\06_Eieruhr_Loesung\\EggTimer_Loesung\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 202,
+                        "endColumn": 45,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 667,
+                    "endColumn": 45,
+                    "endOffset": 708
+                },
+                "from": {
+                    "file": "D:\\Seafile\\Seafile\\Meine Bibliothek\\Lehre\\SS17\\Android\\Update\\Alt\\07_Eieruhr\\06 Eieruhr Loesung\\06_Eieruhr_Loesung\\EggTimer_Loesung\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 156,
+                        "endColumn": 45,
+                        "endOffset": 197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 713,
+                    "endColumn": 61,
+                    "endOffset": 770
+                },
+                "from": {
+                    "file": "D:\\Seafile\\Seafile\\Meine Bibliothek\\Lehre\\SS17\\Android\\Update\\Alt\\07_Eieruhr\\06 Eieruhr Loesung\\06_Eieruhr_Loesung\\EggTimer_Loesung\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 429,
+                        "endColumn": 61,
+                        "endOffset": 486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 775,
+                    "endColumn": 42,
+                    "endOffset": 813
+                },
+                "from": {
+                    "file": "D:\\Seafile\\Seafile\\Meine Bibliothek\\Lehre\\SS17\\Android\\Update\\Alt\\07_Eieruhr\\06 Eieruhr Loesung\\06_Eieruhr_Loesung\\EggTimer_Loesung\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 326,
+                        "endColumn": 42,
+                        "endOffset": 364
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 818,
+                    "endColumn": 39,
+                    "endOffset": 853
+                },
+                "from": {
+                    "file": "D:\\Seafile\\Seafile\\Meine Bibliothek\\Lehre\\SS17\\Android\\Update\\Alt\\07_Eieruhr\\06 Eieruhr Loesung\\06_Eieruhr_Loesung\\EggTimer_Loesung\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 248,
+                        "endColumn": 39,
+                        "endOffset": 283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 858,
+                    "endColumn": 37,
+                    "endOffset": 891
+                },
+                "from": {
+                    "file": "D:\\Seafile\\Seafile\\Meine Bibliothek\\Lehre\\SS17\\Android\\Update\\Alt\\07_Eieruhr\\06 Eieruhr Loesung\\06_Eieruhr_Loesung\\EggTimer_Loesung\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 288,
+                        "endColumn": 37,
+                        "endOffset": 321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 896,
+                    "endLine": 29,
+                    "endColumn": 11,
+                    "endOffset": 1171
+                },
+                "from": {
+                    "file": "D:\\Seafile\\Seafile\\Meine Bibliothek\\Lehre\\SS17\\Android\\Update\\Alt\\07_Eieruhr\\06 Eieruhr Loesung\\06_Eieruhr_Loesung\\EggTimer_Loesung\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 3,
+                        "startOffset": 187,
+                        "endLine": 12,
+                        "endColumn": 11,
+                        "endOffset": 468
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1176,
+                    "endLine": 32,
+                    "endColumn": 11,
+                    "endOffset": 1328
+                },
+                "from": {
+                    "file": "D:\\Seafile\\Seafile\\Meine Bibliothek\\Lehre\\SS17\\Android\\Update\\Alt\\07_Eieruhr\\06 Eieruhr Loesung\\06_Eieruhr_Loesung\\EggTimer_Loesung\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 3,
+                        "startOffset": 507,
+                        "endLine": 17,
+                        "endColumn": 11,
+                        "endOffset": 661
+                    }
+                }
+            }
+        ]
+    }
+]

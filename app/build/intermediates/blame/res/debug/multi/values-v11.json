@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "D:\\Seafile\\Seafile\\Meine Bibliothek\\Lehre\\SS17\\Android\\Update\\Alt\\07_Eieruhr\\06 Eieruhr Loesung\\06_Eieruhr_Loesung\\EggTimer_Loesung\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 11,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "D:\\Seafile\\Seafile\\Meine Bibliothek\\Lehre\\SS17\\Android\\Update\\Alt\\07_Eieruhr\\06 Eieruhr Loesung\\06_Eieruhr_Loesung\\EggTimer_Loesung\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 3,
+                        "startOffset": 178,
+                        "endLine": 8,
+                        "endColumn": 11,
+                        "endOffset": 309
+                    }
+                }
+            }
+        ]
+    }
+]

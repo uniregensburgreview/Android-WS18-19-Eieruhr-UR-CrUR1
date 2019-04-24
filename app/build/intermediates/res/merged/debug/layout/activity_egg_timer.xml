@@ -1,0 +1,62 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".EggTimerActivity"
+    android:id="@+id/parentLayout"
+    >
+
+    <TextView
+        android:id="@+id/topTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/eggSize"
+        android:layout_alignParentTop="true"
+        />
+
+    <Spinner
+        android:id="@+id/spinnerEggSize"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/topTextView"
+        />
+
+    <TextView
+        android:id="@+id/middleTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/doneness"
+        android:layout_below="@id/spinnerEggSize"
+        />
+
+    <Spinner
+        android:id="@+id/spinnerDoneness"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/middleTextView"
+        />
+
+    <TextView
+        android:id="@+id/timerView"
+        android:layout_width="match_parent"
+        android:layout_height="200dip"
+        android:gravity="center"
+        android:textSize="100dp"
+        android:layout_below="@id/spinnerDoneness"
+        />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="152dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_centerInParent="true"
+        android:text="@string/start"
+        android:layout_below="@id/timerView"
+        />
+
+</RelativeLayout>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\BAUMGA56\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\BAUMGA56\AndroidStudioProjects\EggTimer_Loesung\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_1f12b7d9a0609b24d48220c08137ea3969226cf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BAUMGA56\AndroidStudioProjects\EggTimer_Loesung\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="8960aa623456f02d17f7b3cbdf732bde72cf26b4">
+        <dex dex="C:\Users\BAUMGA56\AndroidStudioProjects\EggTimer_Loesung\app\build\intermediates\pre-dexed\debug\instant-run_de6a8ee8ad3854a8b683c681a32ad0ef2ef17391.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BAUMGA56\AndroidStudioProjects\EggTimer_Loesung\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\BAUMGA56\AndroidStudioProjects\EggTimer_Loesung\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_89b7fae34191afa611031e5c75a1d3c81096988b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BAUMGA56\AndroidStudioProjects\EggTimer_Loesung\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="649dcb5943d0d66dd2f38dff3b18922ce6d936b2">
+        <dex dex="C:\Users\BAUMGA56\AndroidStudioProjects\EggTimer_Loesung\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_187c1a58d7c4fe8d0f6eb400c7f6834df194de9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BAUMGA56\AndroidStudioProjects\EggTimer_Loesung\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\BAUMGA56\AndroidStudioProjects\EggTimer_Loesung\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_1c54025c07ee4ebb3c1e11e5f7477d0d3f575b68.jar" />
+    </item>
+
+</items>
